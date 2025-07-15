@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "frontend_notebook"
-  text: "frontend_notebook"
-  tagline: My great project tagline
+  name: "Frontend Notebook"
+  text: "前端学习笔记"
+  tagline: 记录个人的学习点滴
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /quick-start
     - theme: alt
-      text: API Examples
+      text: 技术提升
       link: /api-examples
 
 features:
